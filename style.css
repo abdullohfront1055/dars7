@@ -1,0 +1,11 @@
+body {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.box {
+    width: 23%;
+    border: 2px solid black;
+    padding: 10px;
+}
